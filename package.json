@@ -1,0 +1,27 @@
+{
+  "name": "curso-apirestful-nodejs",
+  "version": "1.0.0",
+  "description": "Arquivos do curso de APIRestful com NodeJS, Restify e MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellysonmartins/Curso-APIRestful-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellysonmartins/Curso-APIRestful-NodeJS/issues"
+  },
+  "homepage": "https://github.com/wellysonmartins/Curso-APIRestful-NodeJS#readme",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.3",
+    "@types/yargs": "^12.0.9"
+  }
+}
