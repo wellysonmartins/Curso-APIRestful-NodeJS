@@ -5,7 +5,7 @@ Arquivos do curso de APIRestful com NodeJS, Restify e MongoDB
 
 - [x] 1. Informações do Curso
 - [x] 2. Introdução ao Node.JS
-- [ ] 3. Começando com a API REST - Node & Restify
+- [x] 3. Começando com a API REST - Node & Restify
 - [ ] 4. Introdução ao MongoDB
 - [ ] 5. Continuando a API - Restify & Mongoose
 - [ ] 6. Validação, Eventos e Tratamento de Erros - Restify & Mongoose
