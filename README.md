@@ -8,7 +8,7 @@ Arquivos do curso de APIRestful com NodeJS, Restify e MongoDB
 - [x] 3. Começando com a API REST - Node & Restify
 - [x] 4. Introdução ao MongoDB
 - [x] 5. Continuando a API - Restify & Mongoose
-- [ ] 6. Validação, Eventos e Tratamento de Erros - Restify & Mongoose
+- [x] 6. Validação, Eventos e Tratamento de Erros - Restify & Mongoose
 - [ ] 7. Extendendo a API para Outros Recursos
 - [ ] 8. Versionamento e Hypermedia
 - [ ] 9. Testando a API com Jest e Supertest
