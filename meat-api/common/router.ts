@@ -11,9 +11,22 @@ export abstract class Router extends EventEmitter {
             this.emit('beforeRender', document)
             response.json(document)
          }else{
-            throw new NotFoundError('Documento não encontrado')
+            throw new NotFoundError('Documento não encontrado!')
          }
          return next()
+      }
+   }
+
+   renderAll(response: restify.Response, next: restify.Next){
+      return (documents: any[])=>{
+         if(documents){
+            documents.forEach(document=>{
+               this.emit('beforeRender', documents)
+            })
+            response.json(documents)
+         }else{
+            response.json([])
+         }
       }
    }
 }
