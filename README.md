@@ -10,7 +10,7 @@ Arquivos do curso de APIRestful com NodeJS, Restify e MongoDB
 - [x] 5. Continuando a API - Restify & Mongoose
 - [x] 6. Validação, Eventos e Tratamento de Erros - Restify & Mongoose
 - [x] 7. Extendendo a API para Outros Recursos
-- [ ] 8. Versionamento e Hypermedia
+- [x] 8. Versionamento e Hypermedia
 - [ ] 9. Testando a API com Jest e Supertest
 - [ ] 10. Segurança
 - [ ] 11. Cluster e Gerenciamento de Processos com PM2
